@@ -2,7 +2,7 @@
 
 ## Live Preview
 
-In order to see a live preview of this project please [click here](https://flashtodo.netlify.app/).
+In order to see a live preview of this project please [click here](https://flashweather.netlify.app/).
 
 ### About the project
 
